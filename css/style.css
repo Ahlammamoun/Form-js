@@ -147,6 +147,8 @@ body {
 
 .recap-group__value {
     font-weight: bold;
+    color: darkred;
+    font-size: larger;
 }
 
 .error-infos {
